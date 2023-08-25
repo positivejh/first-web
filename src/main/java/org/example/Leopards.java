@@ -4,6 +4,6 @@ public class Leopards {
 
     String team = "loepards";
 
-    String manager = "luke";
+    String manager = "nora";
 
 }
