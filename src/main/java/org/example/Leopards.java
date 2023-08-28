@@ -6,6 +6,6 @@ public class Leopards {
 
     String manager = "nora";
 
-    String member = "Evie";
+    String member = "Evie", "Devil";
 
 }
