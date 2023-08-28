@@ -6,4 +6,6 @@ public class Leopards {
 
     String manager = "nora";
 
+    String member = "Evie";
+
 }
